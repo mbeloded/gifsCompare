@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/Service/ApiClient.swift"
+            timestampString = "570837769.5732991"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getGif(_:limit:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "compareGifSearches.ApiClient.getGif(_: Swift.String, limit: Swift.Int) -&gt; RxSwift.Observable&lt;Swift.Optional&lt;compareGifSearches.Gif&gt;&gt;"
+                  moduleName = "compareGifSearches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbeloded/Documents/workspace/compareGifSearches/compareGifSearches/Service/ApiClient.swift"
+                  timestampString = "570619792.196353"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift.AnyObserver&lt;Swift.Optional&lt;compareGifSearches.Gif&gt;&gt;) -&gt; RxSwift.Disposable in compareGifSearches.ApiClient.getGif(_: Swift.String, limit: Swift.Int) -&gt; RxSwift.Observable&lt;Swift.Optional&lt;compareGifSearches.Gif&gt;&gt;"
+                  moduleName = "compareGifSearches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbeloded/Documents/workspace/compareGifSearches/compareGifSearches/Service/ApiClient.swift"
+                  timestampString = "570619792.200408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/Service/ApiClient.swift"
+            timestampString = "570837769.573397"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getGif(_:limit:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/Service/ApiClient.swift"
+            timestampString = "570837769.573471"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getGif(_:limit:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewController.swift"
+            timestampString = "570837769.573545"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "bindUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewController.swift"
+            timestampString = "570837769.5736589"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "bindUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewController.swift"
+            timestampString = "570837769.573776"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "bindUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewController.swift"
+            timestampString = "570837769.57389"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "bindUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewModel/ViewModel.swift"
+            timestampString = "570837769.5740041"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init(leftQuery:rightQuery:didPressButton:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "compareGifSearches.ViewModel.init(with: RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;, rightQuery: RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;, didPressButton: RxSwift.Observable&lt;()&gt;) -&gt; compareGifSearches.ViewModel"
+                  moduleName = "compareGifSearches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbeloded/Documents/workspace/compareGifSearches/compareGifSearches/ViewModel/ViewModel.swift"
+                  timestampString = "570835911.512677"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.String&gt;, Swift.Optional&lt;Swift.String&gt;) -&gt; (Swift.String, Swift.String) in compareGifSearches.ViewModel.init(with: RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;, rightQuery: RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;, didPressButton: RxSwift.Observable&lt;()&gt;) -&gt; compareGifSearches.ViewModel"
+                  moduleName = "compareGifSearches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbeloded/Documents/workspace/compareGifSearches/compareGifSearches/ViewModel/ViewModel.swift"
+                  timestampString = "570835911.516315"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "27">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewModel/ViewModel.swift"
+            timestampString = "570837769.574118"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "init(leftQuery:rightQuery:didPressButton:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewModel/ViewModel.swift"
+            timestampString = "570837769.574253"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "init(leftQuery:rightQuery:didPressButton:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewModel/ViewModel.swift"
+            timestampString = "570837769.5743999"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "init(leftQuery:rightQuery:didPressButton:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewModel/ViewModel.swift"
+            timestampString = "570837769.5745"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "init(leftQuery:rightQuery:didPressButton:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewModel/ViewModel.swift"
+            timestampString = "570837769.574598"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "init(leftQuery:rightQuery:didPressButton:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 ((Swift.String, Swift.String)) -&gt; RxSwift.Observable&lt;compareGifSearches.Compare&gt; in compareGifSearches.ViewModel.init(with: RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;, rightQuery: RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;, didPressButton: RxSwift.Observable&lt;()&gt;) -&gt; compareGifSearches.ViewModel"
+                  moduleName = "compareGifSearches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbeloded/Documents/workspace/compareGifSearches/compareGifSearches/ViewModel/ViewModel.swift"
+                  timestampString = "570835911.553992"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;compareGifSearches.Gif&gt;, Swift.Optional&lt;compareGifSearches.Gif&gt;) -&gt; compareGifSearches.Compare in closure #2 ((Swift.String, Swift.String)) -&gt; RxSwift.Observable&lt;compareGifSearches.Compare&gt; in compareGifSearches.ViewModel.init(with: RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;, rightQuery: RxSwift.Observable&lt;Swift.Optional&lt;Swift.String&gt;&gt;, didPressButton: RxSwift.Observable&lt;()&gt;) -&gt; compareGifSearches.ViewModel"
+                  moduleName = "compareGifSearches"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mbeloded/Documents/workspace/compareGifSearches/compareGifSearches/ViewModel/ViewModel.swift"
+                  timestampString = "570835911.557446"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "47">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewModel/ViewModel.swift"
+            timestampString = "570837769.5746731"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "init(leftQuery:rightQuery:didPressButton:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewModel/ViewModel.swift"
+            timestampString = "570837769.57477"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "init(leftQuery:rightQuery:didPressButton:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewController.swift"
+            timestampString = "570837769.574862"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "bindUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "compareGifSearches/ViewController.swift"
+            timestampString = "570837769.574941"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "bindUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
